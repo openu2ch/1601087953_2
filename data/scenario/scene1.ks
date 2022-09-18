@@ -436,7 +436,7 @@
 [_tb_end_text]
 
 [cm  ]
-[tb_image_show  time="1000"  storage="default/emotion2.png"  width="150"  height="96"  x="362"  y="74"  _clickable_img=""  name="img_155"  ]
+[tb_image_show  time="1000"  storage="default/emotion2.png"  width="150"  height="96"  x="420"  y="76"  _clickable_img=""  name="img_155"  ]
 [tb_start_text mode=2 ]
 #眠ニキ
 ええからレベリングしようぜ！[l][r]
