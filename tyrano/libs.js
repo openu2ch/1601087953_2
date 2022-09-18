@@ -408,6 +408,7 @@
                 callback(order_str);
             },
             error:function(){
+                callback("");
             }
         });
         
