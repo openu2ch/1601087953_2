@@ -413,7 +413,8 @@
 
 [cm  ]
 [chara_show  name="youjo"  time="1000"  wait="false"  storage="chara/3/youjo.png"  width="900"  height="900"  left="-283"  top="158"  reflect="false"  ]
-[chara_show  name="nemu"  time="1000"  wait="true"  left="25"  top="71"  width="921"  height="921"  reflect="false"  storage="chara/4/touzoku.png"  ]
+[chara_show  name="akuma"  time="1000"  wait="false"  storage="chara/2/akuma.png"  width="274"  height="274"  left="176"  top="-27"  reflect="false"  ]
+[chara_show  name="nemu"  time="1000"  wait="true"  left="89"  top="80"  width="921"  height="921"  reflect="false"  storage="chara/4/touzoku.png"  ]
 [tb_start_text mode=2 ]
 #
 幼女ニキと眠ニキである。[l][r]
